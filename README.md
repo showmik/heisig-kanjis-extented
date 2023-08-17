@@ -1,4 +1,4 @@
-# Heisig Kanji Extended Repository
+# Heisig Kanji Extended
 
 This repository offers an extended dataset of kanji characters featured in James Heisig's book "Remembering the Kanji" 1 & 3. It extends the existing dataset from [this repository](https://github.com/sdcr/heisig-kanjis) by:
 - Incorporating 4 new columns (Lesson, Stroke Count, Frequency, and JLPT Level)
