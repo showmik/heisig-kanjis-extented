@@ -6,7 +6,7 @@ This repository offers an extended dataset of kanji characters featured in James
 
 ## 📦 Contents
 
-The  [`heisig-kanjis-extended.csv`](https://github.com/showmik/heisig-kanjis-extented/blob/main/heisig-kanjis-extented.csv) file contains the followings:
+The  [`heisig-kanjis-extended.csv`](http://raw.githubusercontent.com/showmik/heisig-kanjis-extented/main/heisig-kanjis-extented.csv) file contains the followings:
 
 | Field Name     | Description                                                                   |
 | -------------- | ----------------------------------------------------------------------------- |
